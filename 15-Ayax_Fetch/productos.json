@@ -1,0 +1,19 @@
+{
+    "frutas": [
+        {
+            "nombre": "Manzana",
+            "color": "Rojo",
+            "Sabor": "Dulce"
+        },
+        {
+            "nombre": "Banana",
+            "color": "Amarillo",
+            "Sabor": "Dulce"
+        },
+        {
+            "nombre": "Naranja",
+            "color": "Naranja",
+            "Sabor": "Citrico"
+        }
+    ]
+}
